@@ -12,10 +12,10 @@ A simple frontend application built with React.js for managing directories, with
 - **State Management**: LocalStorage
 - **Styling**: CSS
 
-#### Hosted Link : https://appdirectory.onrender.com/
+#### Hosted Link : https://react-directory-app-pi.vercel.app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aparnamagadum/DirectoryApp.git
+   git clone https://github.com/nawabkhan89646/React-Directory-App.git
   
 
